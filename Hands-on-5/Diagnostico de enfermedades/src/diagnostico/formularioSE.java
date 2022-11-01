@@ -205,7 +205,7 @@ public class formularioSE extends javax.swing.JFrame {
       if((u==0) && (d==0) && (t==0) && (c==0) && (ci==0) && (se==0)){
            String dg = "----------------------------------------------------\n"
                      + "-  Sistema Experto de diagnostico                   \n"
-                     + "-    ingenieria de sistemas                         \n"
+                     + "-    Sistemas basados en conocimiento               \n"
                      + "----------------------------------------------------\n"
                      + "-         DIAGNOSTICO                               \n"
                      + "----------------------------------------------------\n"
@@ -234,7 +234,7 @@ public class formularioSE extends javax.swing.JFrame {
       if((u==0) && (d==0) && (t==0) && (c==0) && (ci==0) && (se==0) && (si==0) && (oc==0)){
            String dg = "----------------------------------------------------\n"
                      + "-  Sistema Experto de diagnostico                   \n"
-                     + "-    ingenieria de sistemas                         \n"
+                     + "-    Sistemas basados en conocimiento               \n"
                      + "----------------------------------------------------\n"
                      + "-         DIAGNOSTICO                               \n"
                      + "----------------------------------------------------\n"
@@ -261,7 +261,7 @@ public class formularioSE extends javax.swing.JFrame {
        if((u==0) && (d==0) && (t==0) && (c==0) && (ci==0) && (se==0)){
             String dg = "----------------------------------------------------\n"
                      + "-  Sistema Experto de diagnostico                    \n"
-                     + "-    ingenieria de sistemas                          \n"
+                     + "-    Sistemas basados en conocimiento               \n"
                      + "-----------------------------------------------------\n"
                      + "-         DIAGNOSTICO                                \n"
                      + "-----------------------------------------------------\n"
